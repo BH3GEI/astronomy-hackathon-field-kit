@@ -1,0 +1,4 @@
+interface:
+  display_name: "Astronomy Background Brainstorm"
+  short_description: "把天文素材转成黑客松项目种子、agent发散框架和验证路径"
+  default_prompt: "Use $astronomy-background-brainstorm to turn this astronomy field kit into a grounded hackathon idea map."
